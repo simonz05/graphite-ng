@@ -1,7 +1,7 @@
 package functions
 
 import (
-	"../chains"
+	"github.com/triplesek/graphite-ng/chains"
 )
 
 func init() {

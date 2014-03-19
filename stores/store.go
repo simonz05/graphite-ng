@@ -1,9 +1,9 @@
 package stores
 
 import (
-	"../chains"
-	"../config"
-	"../metrics"
+	"github.com/triplesek/graphite-ng/chains"
+	"github.com/triplesek/graphite-ng/config"
+	"github.com/triplesek/graphite-ng/metrics"
 	"errors"
 )
 

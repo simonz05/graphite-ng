@@ -1,7 +1,7 @@
 package chains
 
 import (
-	"../metrics"
+	"github.com/triplesek/graphite-ng/metrics"
 )
 
 type ChainEl struct {
