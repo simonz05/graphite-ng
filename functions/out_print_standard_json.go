@@ -1,7 +1,7 @@
 package functions
 
 import (
-	"github.com/triplesek/graphite-ng/chains"
+	"github.com/graphite-ng/graphite-ng/chains"
 	"fmt"
 )
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/triplesek/graphite-ng/chains"
-	"github.com/triplesek/graphite-ng/stores"
+	"github.com/graphite-ng/graphite-ng/chains"
+	"github.com/graphite-ng/graphite-ng/stores"
 	"fmt"
 )
 
