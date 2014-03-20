@@ -1,9 +1,9 @@
 package stores
 
 import (
-	"github.com/graphite-ng/graphite-ng/chains"
-	"github.com/graphite-ng/graphite-ng/config"
-	"github.com/graphite-ng/graphite-ng/metrics"
+	"github.com/triplesek/graphite-ng/chains"
+	"github.com/triplesek/graphite-ng/config"
+	"github.com/triplesek/graphite-ng/metrics"
 	"errors"
 	"fmt"
 	"github.com/mattbaird/elastigo/api"
