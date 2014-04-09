@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/triplesek/graphite-ng/config"
-	"github.com/triplesek/graphite-ng/functions"
-	"github.com/triplesek/graphite-ng/stack"
-	"github.com/triplesek/graphite-ng/stores"
-	"github.com/triplesek/graphite-ng/timespec"
+	"github.com/simonz05/graphite-ng/config"
+	"github.com/simonz05/graphite-ng/functions"
+	"github.com/simonz05/graphite-ng/stack"
+	"github.com/simonz05/graphite-ng/stores"
+	"github.com/simonz05/graphite-ng/timespec"
 	"bytes"
 	"errors"
 	"fmt"

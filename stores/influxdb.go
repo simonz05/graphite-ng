@@ -1,10 +1,10 @@
 package stores
 
 import (
-	"github.com/triplesek/graphite-ng/chains"
-	"github.com/triplesek/graphite-ng/config"
-	"github.com/triplesek/graphite-ng/metrics"
-	"github.com/triplesek/graphite-ng/util"
+	"github.com/simonz05/graphite-ng/chains"
+	"github.com/simonz05/graphite-ng/config"
+	"github.com/simonz05/graphite-ng/metrics"
+	"github.com/simonz05/graphite-ng/util"
 	"fmt"
 	"github.com/influxdb/influxdb-go"
 )

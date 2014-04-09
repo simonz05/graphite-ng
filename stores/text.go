@@ -1,9 +1,9 @@
 package stores
 
 import (
-	"github.com/triplesek/graphite-ng/chains"
-	"github.com/triplesek/graphite-ng/config"
-	"github.com/triplesek/graphite-ng/metrics"
+	"github.com/simonz05/graphite-ng/chains"
+	"github.com/simonz05/graphite-ng/config"
+	"github.com/simonz05/graphite-ng/metrics"
 	"bufio"
 	"fmt"
 	"io/ioutil"
